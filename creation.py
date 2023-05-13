@@ -1,4 +1,7 @@
+import sys
+sys.path.append('C:\\Users\\Jithin H S\\Downloads\\Anaconda\\lib\\site-packages\\cv2.cp310-win_amd64.pyd')
 import cv2
+
 import numpy as np
 import streamlit as st
 import tensorflow as tf
